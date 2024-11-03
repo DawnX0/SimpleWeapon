@@ -1,0 +1,2 @@
+# SimpleWeapon
+create weapon simply 
